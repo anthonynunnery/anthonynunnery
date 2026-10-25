@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Anthony Nunnery, and I am a current research assistant who's focused on learning how to better apply advanced data analysis techniques to social science research context.
+
+Here's a place for my current collaborative projects and statistical based study designs drafts 
+
 <!--
 **anthonynunnery/anthonynunnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
